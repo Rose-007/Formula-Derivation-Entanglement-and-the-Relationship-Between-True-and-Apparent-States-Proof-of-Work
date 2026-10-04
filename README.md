@@ -3,7 +3,7 @@
 «A public learning record on formula derivation, verification, observation, perspective, and entanglement»
 
 ## (づ￣³￣)づ 🇹🇭[()λOb → ()∱∝]
-[[Public Codex]([https://img.shields.io/badge/status-public_codex-blue](https://l.facebook.com/l.php?u=https%3A%2F%2Fchatgpt.com%2Fshare%2F6ac2d657-9994-83ec-8a87-67b64bf02c3d%3Fogimg%3Dplain%26fbclid%3DIwZXh0bgNhZW0CMTAAcGRvZgVicmlkETFZaXFyV2dLUWFnOTdRT0ZQc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHs8iorrTa3NPydcxfrQ1L2pfOGRB927XgTUtwk6eBLeTgP3PP_ok58vdZQmJ_aem_KspQKm0k632hG2Wu3HcB1Q&h=AUArvt_DY_5k-L3tO40JzEEkXS4wTUwJ-VekYf_tia5Wl7KUeTwo8BwuBFf8nAzevMdi52BPW970be9wClhUseQprgwx_dkdoysdxcYcLcCyZmzyCFzBlVD7SUU4Ao3DhJkDFQAPRSFEza91eDgbzEN6KOBB-EDG&__tn__=-UK-R&c[0]=AUAfmlk_o-s4ZR4v9ZlfpzRNo3ZZ-CqrMFI_qKWgK2E1hicYde3NJlR72F4UDcWBR1aNGu8PvYI3O5vb4ignfgjxq7Tly49rK3YdZb6CkXiWTGdtvw2nFuTiiAhr9zJDy-sf33zkw3fMQopvPMp14QyOtXtq0PAQpJ61Dep8AnKXTO5yS1Fy85XRhdwpD6DlAaQD_xEHLGe3uAf3iLvUuNtH8-g))]()
+[[html original](https://chatgpt.com/share/6ac2d657-9994-83ec-8a87-67b64bf02c3d)]() 
 
 ## Relationship of Laws: Proof of Works
 ![](Formular-Derivatio-OLa'y.jpg)
