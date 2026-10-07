@@ -4,6 +4,7 @@
 
 ## (づ￣³￣)づ 🇹🇭[()λOb → ()∱∝]
 [[html original](https://chatgpt.com/share/6ac2d657-9994-83ec-8a87-67b64bf02c3d)]() 
+[[html original](https://www.facebook.com/share/p/1HSbzLnE1N/)]() 
 
 ## Relationship of Laws: Proof of Works
 ![](Formular-Derivatio-OLa'y.jpg)
